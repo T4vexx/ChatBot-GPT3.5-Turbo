@@ -1,3 +1,11 @@
+# Chat bot com chat GTP 3.5 turbo
+
+## visual
+<div align="center">
+  <img src="https://github.com/T4vexx/ChatBot-GPT3.5-Turbo/assets/68335367/e2a84245-b1e2-4920-b26e-09ea2602389e" />
+</div>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
